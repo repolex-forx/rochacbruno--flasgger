@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/rochacbruno/flasgger/commit/bb1a86b2d71ed0bdd3e8183570a9ce9d1f5abac1",
       "git:hexsha": "bb1a86b2d71ed0bdd3e8183570a9ce9d1f5abac1",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/rochacbruno/flasgger/commit/4c4f161c60500963a4db0fbfbe979c1129d1ce57",
